@@ -1,0 +1,24 @@
+{
+  "name": "KalorieBot",
+  "short_name": "KalorieBot",
+  "description": "Kalorietæller med BMI, TDEE og vægtlog",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#060d09",
+  "theme_color": "#060d09",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "./icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
